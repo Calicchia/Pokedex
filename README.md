@@ -1,2 +1,2 @@
-# [Pokedex](hhttps://calicchia.github.io/Pokedex-ajax/)
+# [Pokedex](https://calicchia.github.io/Pokedex-ajax/)
 
