@@ -1,2 +1,2 @@
-# Pokedex
-https://calicchia.github.io/Pokedex/
+# [Pokedex](https://calicchia.github.io/Pokedex/)
+
